@@ -1,6 +1,6 @@
 #  IMF GDP Growth Analysis: Stability and Anomalies (1980–2029)
 
-## 👥 Team
+##  Team
 - **Abhijeet** (055002)
 - **Jhalki Kulshrestha** (055017)  
 - **Group Number**: 19
@@ -52,7 +52,7 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - Python
 - Jupyter Notebook
