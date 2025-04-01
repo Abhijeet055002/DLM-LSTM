@@ -1,4 +1,4 @@
-# 🌍 IMF GDP Growth Analysis: Stability and Anomalies (1980–2029)
+#  IMF GDP Growth Analysis: Stability and Anomalies (1980–2029)
 
 ## 👥 Team
 - **Abhijeet** (055002)
@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes Real GDP Growth trends from 1980 to 2029 using data sourced from the **International Monetary Fund (IMF)**. The objective is to assess historical economic performance, identify countries with stable GDP growth, and detect significant anomalies like economic booms or recessions.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 - **Source:** International Monetary Fund (IMF)
 - **Size:** ~68 KB
@@ -32,7 +32,7 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. Explore Real GDP Growth data for 1980–2029.
 2. Identify the **two most stable economies** over the 50-year period.
@@ -41,7 +41,7 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 - **Data Cleaning & Interpolation**
 - **Exploratory Data Analysis (EDA)**
@@ -63,7 +63,7 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo and open in Jupyter or any notebook editor.
 2. Install required libraries using:
@@ -74,7 +74,7 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Integrate **Macroeconomic Indicators** like CPI, inflation, and employment rates.
 - Use **LSTM/RNN models** for time-series forecasting.
@@ -82,9 +82,9 @@ This project analyzes Real GDP Growth trends from 1980 to 2029 using data source
 
 ---
 
-## ✍️ Author
+##  Author
 
-Crafted with ❤️ by Abhijeet & Jhalki  
+Crafted by Abhijeet & Jhalki  
 PGDM – Big Data Analytics  
 FORE School of Management, Delhi
 
